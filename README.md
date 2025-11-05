@@ -11,9 +11,4 @@ A modern, minimal, and user-friendly mobile web app for personal and family medi
 - 🔍 Medicine verification
 - 📱 Responsive mobile design
 
-## How to Run Locally
 
-1. **Create the project folder:**
-   ```bash
-   mkdir meditrack-plus
-   cd meditrack-plus
