@@ -1,7 +1,0 @@
-{
-  "name": "MediTrack+",
-  "description": "A personal and family medicine tracker and reminder app. It helps users manage their daily medicine schedules, track expiry dates, verify leftover medicines, and avoid taking expired or unsafe medicines.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
