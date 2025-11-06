@@ -8,7 +8,6 @@ A modern, minimal, and user-friendly mobile web app for personal and family medi
 - ⏰ Smart reminder system
 - 📅 Expiry date tracking
 - 👨‍👩‍👧‍👦 Family member support
-- 🔍 Medicine verification
 - 📱 Responsive mobile design
 
 
